@@ -1,0 +1,12 @@
+.todo_list{
+    text-align: center;
+}
+.listcontainer{
+    margin: 1.2em;
+    padding: 6px;
+    width: 300px;
+}
+/* .todo_list:hover{
+    background: rgb(174,238,211);
+    background: radial-gradient(circle, rgba(174,238,211,1) 6%, rgba(148,187,233,1) 92%);
+} */
